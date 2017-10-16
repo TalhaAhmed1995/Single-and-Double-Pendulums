@@ -1,4 +1,4 @@
-#Testing Numerical Methods on Pendulum Models
+# Testing Numerical Methods on Pendulum Models
 
 The simple pendulum FDM solutions can be produced by running the singlePendulum.py module. This contains all four methods plus the large angle form of Explicit Euler.
 
